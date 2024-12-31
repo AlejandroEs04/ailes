@@ -1,0 +1,14 @@
+# .NET 9
+bin/
+obj/
+/.vs/
+/*.user
+/*.suo
+/*.rsuser
+/*.ncrunchsolution
+/*.ncrunchproject
+/.idea/
+/_ReSharper*/
+project.lock.json
+*.DotSettings.user
+.vscode/

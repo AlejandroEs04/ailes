@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+/*.py[cod]
+*.sqlite3
+*.env
+.Python
+.env/
+/env/
+/venv/
+/.idea/
+*.pytest_cache/
+*.mypy_cache/
+*.ipynb_checkpoints/
